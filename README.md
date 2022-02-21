@@ -1,16 +1,16 @@
-### Hi there 👋
+#### I wish I picked a different programming language to grow up with.
 
-<!--
-**sascheh/sascheh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sascheh&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+I work as a Medior PHP Developer for a living.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Used to work on maps, (mostly) private plugins and private web solutions for / in the Team Fortress 2 community.
+  * SLAG Gaming
+  * Red Sun Over Paradise
+  * DFS
+
+Currently own a digital music bunker called [NOIZ](https://clubnoiz.events) inside Final Fantasy 14, while working on the VRChat version.
+
+Am obsessed with Virtual Reality and it's social implications in the current age by experiencing it myself.
+
+Occassional dee-jay.

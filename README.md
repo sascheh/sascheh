@@ -14,3 +14,5 @@ Currently own a digital music bunker called [NOIZ](https://clubnoiz.events) insi
 Am obsessed with Virtual Reality and it's social implications in the current age by experiencing it myself.
 
 Occassional dee-jay.
+
+[public twi'a](https://twitter.com/saschyeah) / [private twi'a](https://twitter.com/weatheredcap)

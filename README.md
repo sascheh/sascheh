@@ -15,4 +15,4 @@ Am obsessed with Virtual Reality and it's social implications in the current age
 
 Occassional dee-jay.
 
-[public twi'a](https://twitter.com/saschyeah) / [private twi'a](https://twitter.com/weatheredcap)
+[twi'a](https://twitter.com/iamsasch) /
